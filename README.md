@@ -3,6 +3,7 @@ Install IPAs with TrollStore over SSH
 
 # Dependencies
 The Mac needs SSHPass installed and the iDevice needs to have OpenSSH installed
+Both devices need to be on the same WiFi network for SSH to work
 
 # Usage
 trollinstall Desktop/App.ipa 192.168.1.000 root alpine 2222 (port is optional, default port is 2222)
