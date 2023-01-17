@@ -1,5 +1,5 @@
 # trollinstall
-Install IPAs with TrollStore over SSH
+Install IPAs with TrollStore via SSH
 
 # Dependencies
 The Mac needs SSHPass installed and the iDevice needs to have OpenSSH installed
